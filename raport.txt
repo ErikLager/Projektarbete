@@ -1,0 +1,9 @@
+Första steget blev att implementera temat för hemsidan
+Detta gjordes med hjälp av css vraiabler, detta gjordes för att 
+göra det enklare att följa temat.
+Sedan skapades de två html-filerna och fylldes med den relevanta infon
+Sedan var det styling, då var det till att välja färger och design.
+Här valdes en sidomeny då det passade bäst med tabellen plus lite extra
+kod för att få den att se bra ut på mobil. 
+Tabellen har var annan rad en mörkare bakgrundsfärg för att göra det lättare att läsa
+Menyn har också en toning när musen hover över.
